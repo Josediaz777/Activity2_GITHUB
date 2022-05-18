@@ -3,5 +3,5 @@ function develop(){
 }
 
 function develop2(){
-    console.log("Hello  this are")
+    console.log("Hello  this are testing")
 }
